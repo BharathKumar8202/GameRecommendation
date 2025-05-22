@@ -4,7 +4,7 @@
 
 This project implements a personalized game recommendation system using a hybrid approach that combines SQL for data preprocessing and Spark MLlib for building a collaborative filtering model. The work was conducted on the Databricks platform and exported as a `.ipynb` notebook (`Task2`).
 
-## Task 2: Recommendation System Development
+## Recommendation System Development
 
 ### Objectives
 
