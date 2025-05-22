@@ -75,6 +75,3 @@ This project implements a personalized game recommendation system using a hybrid
 - User-specific game recommendations
 - ALS model performance metrics (e.g., RMSE)
 - SQL transformation and cleaning steps logged in notebook
-
-## File Structure
-
