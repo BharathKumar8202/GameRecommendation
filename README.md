@@ -65,7 +65,7 @@ This project implements a personalized game recommendation system using a hybrid
 > This notebook is best run on [Databricks Community Edition](https://community.cloud.databricks.com/).
 
 ### Steps:
-1. Upload the notebook `00787835_Task2.html`
+1. Upload the notebook `steamgamerec.html`
 2. Attach to a Spark cluster
 3. Run cells in sequence
 
