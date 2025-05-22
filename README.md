@@ -58,8 +58,7 @@ This project implements a personalized game recommendation system using a hybrid
    - Evaluate using RMSE
    - Generate top-N recommendations for each user
    - <img width="1192" alt="Screenshot 2025-05-22 at 16 13 43" src="https://github.com/user-attachments/assets/d1cb3728-9bba-409d-bbd3-de92b3d2c61e" />
-
-![Uploading Screenshot 2025-05-22 at 16.14.34.png…]()
+<img width="1199" alt="Screenshot 2025-05-22 at 16 16 47" src="https://github.com/user-attachments/assets/65ffa780-d573-41e2-903d-10565c63ccea" />
 
 ## Running the Project
 
